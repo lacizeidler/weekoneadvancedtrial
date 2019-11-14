@@ -1,0 +1,119 @@
+.logo{
+    margin-left: 100px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.main-section{
+    text-align: center;
+    background-image: url("../img/FreeGreatPicture.com-50235-tablet-pc-operating-figures.jpg");
+    height: 650px;
+}
+
+.main-section h1{
+    padding-top: 120px;
+    font-size: 120px;
+    color: black;
+}
+
+.main-section p{
+    font-size: 30px;
+}
+
+.main-section button{
+    font-size: 15px;
+}
+
+.article{
+    text-align: center;
+    line-height: 2em;
+    padding: 50px 100px 50px 100px;
+    background-color: #c9d1d3;
+}
+
+.article h2{
+    font-size: 40px;
+}
+
+.article p{
+    font-size: 18px;
+}
+
+.icons{
+    text-align: center;
+}
+
+.icons .icon{
+    display: inline-block;
+    font-weight: 400;
+    margin: 5% 1%;
+    padding:10px;
+    width: 21%;
+}
+
+.work .box{
+    display: inline-block;
+    font-weight: 400;
+    margin: 2% 1% 0%;
+    padding:10px;
+    width: 25%;
+}
+
+.work img{
+    height: 100%;
+    width: 100%;
+}
+
+.work{
+    text-align: center;
+}
+
+form > input,
+form > textarea {
+    background-color: transparent;
+	border-radius: 2px;
+	border: 1px solid black;
+	color: black;
+	display: block;
+	font-size: 16px;
+	margin: 10px auto;
+	padding: 10px;
+	width: 30%;
+}
+
+.text-area{
+    text-align: center;
+    background-image: url(../img/background-3\ copy.jpg);
+	background-position: 50%;
+	height: 500px;
+	padding: 100px;
+}
+
+form span {
+	color:  black;
+	font-size: 16px;
+	font-weight: 400;
+}
+
+form button {
+	background-color: transparent;
+	border: 1px solid black;
+	border-radius: 2px;
+	color: black;
+	cursor: pointer;
+	margin: 25px 0 0 50px;
+	padding: 10px 25px;	
+}
+
+.text-area h2{
+    font-size: 40px;
+}
+
+.text-area p{
+    font-size: 20px;
+}
+
+.footer h3{
+    font-size: 15px;
+    padding-left: 40px;
+}
